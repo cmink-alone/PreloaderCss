@@ -1,2 +1,5 @@
 # Preloader
-Preloader in pure CSS.Best preloader for youre website. 
+Best preloader for youre website in pure CSS.No Javascript just CSS (and some love). 
+http://heshimovnotes.com/books/index.html 
+
+
