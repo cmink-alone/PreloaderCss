@@ -101,11 +101,6 @@
 		-webkit-animation: movement 600ms ease 450ms infinite alternate;
 	}
 	
-	.preloader .preloader-box > div:nth-child(8) {
-		background: #3366FF;
-		-webkit-animation: movement 600ms ease 525ms infinite alternate;
-	}
-	
 	@-webkit-keyframes movement {
 		from {
 			-webkit-transform: scale(1.0) translateY(0px) rotateX(0deg);
